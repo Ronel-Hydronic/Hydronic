@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HYDRONIC X1000</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>HYDRONIC X1000</h1>
+        <p>Precision Agriculture Rover for Smart Farming</p>
+    </header>
+
+    <section id="about">
+        <h2>About the Project</h2>
+        <p>The HYDRONIC X1000 is an advanced rover designed for precision agriculture. It analyzes soil pH in real time and applies fertilizers accordingly, optimizing crop productivity.</p>
+    </section>
+
+    <section id="features">
+        <h2>Key Features</h2>
+        <ul>
+            <li>Automated soil pH measurement</li>
+            <li>Smart fertilizer application</li>
+            <li>Wireless control via web interface</li>
+            <li>Eco-friendly and efficient</li>
+        </ul>
+    </section>
+
+    <section id="how-it-works">
+        <h2>How It Works</h2>
+        <p>The rover scans soil, processes pH levels, and applies fertilizers with precision. Users can monitor and control it via a web server hosted by an ESP32.</p>
+    </section>
+
+    <section id="demo">
+        <h2>Try It Out</h2>
+        <p>Connect to the rover’s Wi-Fi and visit <b>192.168.4.1</b> to access the control dashboard.</p>
+    </section>
+
+    <footer>
+        <p>© 2025 HYDRONIC X1000 | Designed for Smart Farming</p>
+    </footer>
+</body>
+</html>
